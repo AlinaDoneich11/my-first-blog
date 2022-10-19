@@ -1,5 +1,5 @@
 .page-header {
-    background-color: #ff007399;
+    background-color: #ff00d471;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -12,15 +12,15 @@
     margin-left: 40px;
 }
 h1, h2, h3, h4 {
+    font-family: 'Caveat';
+}
+p {
     font-family: 'Calibri';
 }
 .right_date {
-    color: #828282;
-    float: right;
     margin-right: 15px;
 }
 .right_btn {
-    float: right;
     margin-right: -10px;
 }
 .date {
@@ -47,4 +47,5 @@ h1, h2, h3, h4 {
 }
 .post h1 a, .post h1 a:visited {
     color: #000000c7;
+    font-family: "Caveat";
 }
